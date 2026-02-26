@@ -1,2 +1,3 @@
 Hello Git,It's Arth!
 This is my first repository.
+learing git by step to step
