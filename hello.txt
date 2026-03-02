@@ -2,3 +2,4 @@ Hello Git,It's Arth!
 This is my first repository.
 learing git by step to step
 hello learing to merge currently.also what to do.
+this is learning pull.
